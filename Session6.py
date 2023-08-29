@@ -1,5 +1,5 @@
 """
-S6. Input and Outpur in Python
+S6. Input and Output in Python
 Author: Adriana Millares
 Date: 25/08/2023
 """
